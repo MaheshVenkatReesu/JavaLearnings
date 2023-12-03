@@ -1,3 +1,4 @@
+package DataTypes;
 public class DataTypes {
     public static void amin(String[] args){
         byte players= 11;

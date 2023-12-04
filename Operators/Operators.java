@@ -29,6 +29,19 @@ public class Operators {
         a = ((a-5)/(3+6))*a;
         System.out.println(a);
 
+        // unary operators 
+        int u = 1;
+
+        u++;
+        System.out.println(++u);
+
+        boolean flag = true;
+
+        System.out.println(!flag);
+
+
+
+
 
     }
 }

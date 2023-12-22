@@ -9,7 +9,6 @@ public class Reverse {
 
         int input = sc.nextInt();
         return input;
-
     }
 
     public static void reverse(int A[],int cap){

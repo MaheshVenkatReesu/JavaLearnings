@@ -56,11 +56,7 @@ public class Rotate {
             System.out.print(i+" ");
         }
 
-        // Without using new array method
-        //Right Rotation: First reverse the entire array and then again reverse from index 0 to x where x is number of rotations.
-        // Left Rotation: 
-
-
+        // Without using new array
         int singleA[] = {10,20,30,40,50,60,70,80,90};
         int lenNew = singleA.length;
 
